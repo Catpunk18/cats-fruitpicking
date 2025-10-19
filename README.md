@@ -1,7 +1,8 @@
 # cats-fruitpicking
-A simple script to create targets to pick fruit from. Comes with a cooldown for realistic, limited fruit supply. 
+A simple ESX script to create targets to pick fruit from. Comes with a cooldown for realistic, limited fruit supply. 
 
 Dependancies:
+es_extended
 Ox_inventory
 Ox_target
 Ox_lib
